@@ -52,7 +52,7 @@ RCNN
 
 ### 프로젝트 결과
 
-- [프로젝트 PPT]()
+- [프로젝트 PPT](https://github.com/shampookim/Greduation-Project/blob/main/7%EC%A1%B0%20%EB%B0%9C%ED%91%9C_%EC%B5%9C%EC%A2%85.pdf)
 
 ### 프로젝트 실행영상
 [![video-preview](https://img.youtube.com/vi/CT5dl_k9gvM/0.jpg)](https://www.youtube.com/watch?v=CT5dl_k9gvM)
